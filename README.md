@@ -10,6 +10,9 @@ Automation test for website: http://automationpractice.com/index.php
 
   - At least 2 items are required for the automation to work
   - You must register at least one phone number!
+  - Write the exact name of the item. if you don't write it, the program will add to your cart the first item on the search results
+  - If you want to get the same type of item with different color - create a new seperate object in json file
+
   
 ```json
     
