@@ -1,0 +1,38 @@
+{
+  "signNewsletters" : true,
+  "recieveSpecialOffers" : true,
+  "registrationDetails" : [ {
+    "email" : "testte23setk233@gmail.com",
+    "password" : "testtest123",
+    "gender" : "female",
+    "firstName" : "daniel",
+    "lastName" : "brettschneider",
+    "company" : "test",
+    "address" : "14 Megadim St.",
+    "isUSA" : true,
+    "stateUSA" : "district of columbia",
+    "postalCode" : "12123",
+    "secondAddress" : "6 Hashayara St.",
+    "city" : "Ramat Gan",
+    "additionalInfo" : "asdasd",
+    "homePhone" : "123123",
+    "mobilePhone" : "05222222"
+  }, {
+    "day" : "14",
+    "month" : "8",
+    "year" : "1997"
+  } ],
+  "order" : [  {
+    "name" : "blouse",
+    "quantity" : 2,
+    "color" : "black",
+    "size": "M"
+  },{
+    "name" : "dress",
+    "quantity" : 6,
+    "color" : "black",
+    "size": "M"
+  }],
+  "orderComment": "testing order comment",
+  "payment method": "bank" 
+}
